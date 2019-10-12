@@ -10,7 +10,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 **a. Include a photo of your box here.**
 
-![Photo](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7244.JPG)
+![Photo of Box](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7244.JPG)
 
 **b. Include `.stl` files.**
 
@@ -24,6 +24,8 @@ Please put your sketches or designs for the Jack in the Box.
 ## Electronics
 
 **a. Upload code & a photo of your electronic circuit here.**
+
+![Photo of Circuit]
 
 ## Putting it All Together
 
