@@ -25,6 +25,9 @@ Please put your sketches or designs for the Jack in the Box.
 
 Include here:
 1. Your Arduino code.
+
+![Code](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/JackInTheBox.ino)
+
 1. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 1. A video of your Jack in the Box in action.
 
