@@ -25,7 +25,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 **a. Upload code & a photo of your electronic circuit here.**
 
-![Photo of Circuit]
+![Photo of Circuit](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7245.JPG)
 
 ## Putting it All Together
 
