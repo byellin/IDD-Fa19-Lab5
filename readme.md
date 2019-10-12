@@ -14,6 +14,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 **b. Include `.stl` files.**
 
+![Laser Cutting Files](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/motor%20holder%203d%20printing.stl)
 
 ## 3D Printing
 
