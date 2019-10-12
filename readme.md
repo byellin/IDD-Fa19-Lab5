@@ -10,7 +10,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 **a. Include a photo of your box here.**
 
-https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7244.JPG
+![Photo](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7244.JPG)
 
 **b. Include `.stl` files.**
 
