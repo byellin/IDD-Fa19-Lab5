@@ -29,6 +29,9 @@ Include here:
 ![Code](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/JackInTheBox.ino)
 
 1. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
+
+![Photo of Jack in the Box](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/IMG_7244.JPG)
+
 1. A video of your Jack in the Box in action.
 
 ![Video Link](https://github.com/byellin/IDD-Fa19-Lab5/blob/master/Jack%20In%20The%20Box.MOV)
